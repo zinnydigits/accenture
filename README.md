@@ -2,6 +2,7 @@
 
 ### Accenture North America Data Analytics and Visualization Job Simulation
 
+![certificate of completion](https://github.com/zinnydigits/accenture-virtual-internship/blob/main/accenture.png)
 Welcome to the documentation repository for my project completed as part of the Accenture Data Analytics and Visualization job simulation on the Forage platform in May 2024. This simulation provided an insightful experience into the role of a Data Analyst at Accenture, focusing on advising a hypothetical social media client.
 
 Social Buzz, a company in the Social Media and Content Creation industry, needs help in upscaling. The company has over 500 million active members monthly and above 100,000 pieces of content. They seek to know the top 5 popular categories and best data practices for their IPO.
